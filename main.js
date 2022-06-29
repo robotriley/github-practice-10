@@ -1,0 +1,1 @@
+const divTen=document.querySelector('#divTen')
